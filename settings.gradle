@@ -1,0 +1,2 @@
+rootProject.name = "MpesaTesting"
+include ':app'
